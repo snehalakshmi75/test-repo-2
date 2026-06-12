@@ -1,6 +1,10 @@
 {
-    "brand": "TPG",
-    "sms_template": "Welcome to TPG!",
-    "error_code": "TPG_001",
-    "status": "active"
+    "table": "sms_template",
+    "brand": "tpg",
+    "updated_by": "brand-agent",
+    "data": {
+        "brand_name": "tpg",
+        "table_name": "sms_template",
+        "status": "active"
+    }
 }
