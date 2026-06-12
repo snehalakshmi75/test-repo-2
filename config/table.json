@@ -1,10 +1,10 @@
 {
-    "table": "sms_template",
     "brand": "tpg",
-    "updated_by": "brand-agent",
-    "data": {
-        "brand_name": "tpg",
-        "table_name": "sms_template",
-        "status": "active"
-    }
+    "sms_template": "Welcome to TPG! Your OTP is {otp}",
+    "error_codes": {
+        "TPG_001": "Invalid number",
+        "TPG_002": "Service unavailable",
+        "TPG_003": "OTP expired"
+    },
+    "status": "active"
 }
