@@ -1,6 +1,6 @@
 {
     "brand": "tpg",
-    "sms_template": "Your OTP is {otp}",
+    "sms_template": "Hello TPG",
     "error_codes": {
         "TPG_001": "Invalid number",
         "TPG_002": "Service unavailable",
