@@ -6,5 +6,5 @@
         "TPG_002": "Service unavailable",
         "TPG_003": "OTP expired"
     },
-    "status": "Not currently active"
+    "status": "inactive"
 }
