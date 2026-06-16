@@ -1,6 +1,6 @@
 {
     "brand": "tpg",
-    "sms_template": "Hello TPG",
+    "sms_template": "Welcome to TPG",
     "error_codes": {
         "TPG_001": "Invalid number",
         "TPG_002": "Service unavailable",
